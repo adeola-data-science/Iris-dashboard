@@ -109,5 +109,5 @@ Aspiring Data Scientist | Python | SQL | Power BI | Data Visualization
 
 GitHub: https://github.com/adeola-data-science
 
-LinkedIn: https://linkedin.com/in/shakirudeen-jelilat-adeola-586568335
-# Iris-dashboard
+LinkedIn: https://linkedin.com/in/shakirudeen-adeola
+
